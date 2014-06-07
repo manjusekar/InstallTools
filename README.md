@@ -25,6 +25,6 @@ From a machine in the isolated network that will host this feed please follow th
 
 
 When running *OfflineWebSitesFeeds.ps1*, these are the links pointing to older versions of the Websites feed.
-V2 - http://go.microsoft.com/?linkid=9837345
-V2U1 - http://go.microsoft.com/?linkid=9842950
-V2U2 - http://go.microsoft.com/?LinkId=9845550
+* V2 - http://go.microsoft.com/?linkid=9837345
+* V2U1 - http://go.microsoft.com/?linkid=9842950
+* V2U2 - http://go.microsoft.com/?LinkId=9845550
